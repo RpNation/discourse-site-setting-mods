@@ -1,5 +1,5 @@
-# name: discourse-plugin-site-setting-override
-# about: Example plugin to override a site setting
+# name: discourse-site-setting-mods
+# about: RpNation Site Setting Overrides
 # version: 1.0.0
-# authors: Joshua Rosenfeld
-# url: https://github.com/jomaxro/discourse-plugin-site-setting-override
+# authors: Joshua Rosenfeld, Ghan04
+# url: https://github.com/RpNation/discourse-site-setting-mods
